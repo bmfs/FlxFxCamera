@@ -1,7 +1,5 @@
 package org.flixel
 {
-	
-	import org.flixel.*;
 	import flash.display.*;
 	
 	/**

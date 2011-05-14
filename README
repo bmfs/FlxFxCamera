@@ -1,8 +1,6 @@
-FlxFxCamera
-
 Flixel Camera class with support for a texture overlay
 
-Example:
+### Example ###
 Instantiate two cameras with different textures:
 
 var specialCam:FlxFxCamera = new FlxFxCamera(0,0,FlxG.width/2,FlxG.height);
